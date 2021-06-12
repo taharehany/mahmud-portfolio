@@ -1,0 +1,49 @@
+#hero-area .contents .head-title {
+  letter-spacing: normal;
+  font-size: 60px;
+}
+
+.timeline li {
+  padding: 0 30px 20px 20px;
+  border-right: 2px solid #f1f1f1;
+  border-left: none;
+}
+
+.timeline li:last-child {
+  padding: 0 30px 0px 20px;
+}
+
+.timeline li:first-child i {
+  float: right;
+}
+
+.timeline li:before {
+  margin-right: -35px;
+  margin-left: 0;
+}
+
+.overlay .preview {
+  left: 50%;
+}
+
+.footer-right-contact .contact-icon {
+  right: 0;
+}
+
+#portfolios .portfolio-item .shot-item {
+  height: 400px;
+  overflow: hidden;
+}
+
+#portfolios .portfolio-item .shot-item img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.timeline .timelin-title {
+  margin-right: 25px;
+  margin-left: 0;
+}
+/*# sourceMappingURL=over.css.map */
